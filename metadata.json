@@ -1,0 +1,5 @@
+{
+  "name": "Strike-Web",
+  "description": "사용자가 입력한 스포츠 경기 관람 기록 텍스트를 분석합니다. Gemini API를 사용하여 텍스트 내 인신공격을 감지 및 순화하고, 텍스트의 감정을 2차원 벡터로 시각화하여 보여줍니다.",
+  "requestFramePermissions": []
+}
